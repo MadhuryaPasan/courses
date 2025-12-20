@@ -10,7 +10,7 @@ import sys
 # except IndexError:
 #     print("Too few arguments")
 
-# *this is one way to solve this
+# # *this is one way to solve this
 # if len(sys.argv) < 2:
 #     print("Too few arguments")
 # elif len(sys.argv) > 2:
@@ -22,7 +22,7 @@ import sys
 # *this is the best practice
 # * `sys.exit` -> exist program right away
 
-# check for errors
+# # check for errors
 # if len(sys.argv) < 2:
 #     sys.exit("Too few arguments")
 # elif len(sys.argv) > 2:
