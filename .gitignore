@@ -1,3 +1,5 @@
 __pycache__/
 .pytest_cache/
 .Rproj.user
+node_modules/
+go-workspace/
